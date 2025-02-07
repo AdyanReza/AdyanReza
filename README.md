@@ -19,15 +19,6 @@ An AI-driven solution that delivers hyper-personalized Airbnb recommendations us
 Food4Cause Charity
 A geolocation-driven mobile application built with Flutter and Dart to streamline surplus food redistribution. This project includes real-time inventory tracking and a donor-recipient matching system to reduce food waste.
 
-📚 Education:
-
-Ontario Tech University
-Bachelor of Science (Honours) in Computer Science
-
-Coursework: Analysis and Design of Algorithms, Big Data Analytics, Artificial Intelligence, Systems Programming
-
-Graduation Date: May 2024
-
 🌟 Skills:
 
 Full-Stack Development: Proficient in building scalable web applications using modern frameworks like React and Node.js.
