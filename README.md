@@ -2,13 +2,13 @@
 
 I'm a recent Computer Science graduate from Ontario Tech University with a passion for building innovative software solutions. My expertise lies in full-stack development, AI-driven systems, and data analytics. I enjoy tackling complex problems and creating user-centric applications that make a difference.
 
-🛠️ Technologies & Tools:
+Technologies & Tools:
 
 Languages: Python, C++/C#, SQL, HTML5, CSS, JavaScript, TypeScript, Dart
 Frameworks & Libraries: React, Next.js, Node.js, scikit-learn, NumPy, Pandas
 Tools & Platforms: Git, MongoDB, Express.js, Flutter, Supabase, RESTful APIs
 
-🚀 Projects:
+Projects:
 
 AniCon-Wizard
 A comprehensive web application designed to enhance the anime convention experience. Built with React, TypeScript, and Node.js, this project integrates real-time convention data and provides tools for schedule-building and attendee networking.
@@ -19,7 +19,7 @@ An AI-driven solution that delivers hyper-personalized Airbnb recommendations us
 Food4Cause Charity
 A geolocation-driven mobile application built with Flutter and Dart to streamline surplus food redistribution. This project includes real-time inventory tracking and a donor-recipient matching system to reduce food waste.
 
-🌟 Skills:
+Skills:
 
 Full-Stack Development: Proficient in building scalable web applications using modern frameworks like React and Node.js.
 
@@ -29,7 +29,7 @@ Data Management: Skilled in working with databases (SQL, MongoDB) and designing 
 
 Collaboration & Problem-Solving: Strong team player with experience in cross-functional projects and peer code reviews.
 
-📫 Let's Connect!
+Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
 
 LinkedIn: Adyan Reza
